@@ -1,12 +1,13 @@
 # Python-for-Data-Science
 
-A playground for python data cleansing, transformation and visualizing using Python. 
+A playground for python data cleansing, transformation, and visualizing using Python. 
 The main used libraries are: 
   - Pandas
   - numpy 
   - json
   - Plotly (visualisation)
 
+The first three Tasks has Arabic walkthrough videos on [YouTube](https://www.youtube.com/playlist?list=PLfzTCaaN3T5VKPkgYsno_7NL_uiAOkhoc) each one is less than two minutes. 
 ### Task 1 - Data Transformation and Cleaning with Pandas
 -------------
 [Description]
@@ -27,13 +28,13 @@ A solved version for the task can be found [here](https://github.com/FaridSharaf
                     
 [Description]
 
-This task is maintained to extract some infromation from shorted links JSON file provided by bitly. 
+This task is maintained to extract some information from shorted links JSON file provided by Bitly. 
 the information to be extracted are: 
   - web_browser: The web browser that has requested the service
-  - operating_sys: operating system that intiated this request
+  - operating_sys: the operating system that initiated this request
   - from_url: The main URL the user came from
   - to_url: The same applied like `from_url`
-  - city: The city from which the the request was sent
+  - city: The city from which the request was sent
   - longitude: The longitude where the request was sent
   - latitude: The latitude where the request was sent
   - time_zone: The time zone that the city follow
@@ -53,6 +54,6 @@ A python script of the notebook can be found [here](https://github.com/FaridShar
 [Description]
 
 This task is about visualization using Plotly. 
-It has 4 graphs that shows the relation between price and points in Wine dataset. 
+It has 4 graphs that show the relationship between price and points in the Wine dataset. 
 
 A solved version for the task can be found [here](https://github.com/FaridSharaf/Python-for-Data-Science/blob/main/Task%203%20-%20Plotly/plotly%20playground.ipynb). 
