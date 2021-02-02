@@ -7,7 +7,7 @@ The main used libraries are:
   - json
   - Plotly (visualisation)
 
-The first three Tasks has Arabic walkthrough videos on [YouTube](https://www.youtube.com/playlist?list=PLfzTCaaN3T5VKPkgYsno_7NL_uiAOkhoc) each one is less than two minutes. 
+The first three tasks have Arabic walkthrough videos on [YouTube](https://www.youtube.com/playlist?list=PLfzTCaaN3T5VKPkgYsno_7NL_uiAOkhoc) each one is less than two minutes. 
 ### Task 1 - Data Transformation and Cleaning with Pandas
 -------------
 [Description]
